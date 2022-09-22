@@ -1,0 +1,19 @@
+1. En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes 
+conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a 
+descubrir rápidamente cualquier agujero en tu comprensión.
+
+ * Variables
+  Tiene la funcion de guardar informacion en un nombre
+
+ * Strings
+ Hilo de caracteres inicia y termina en comillas
+
+ * Funciones (argumentos, `return`)
+ argumentos son varibles que declaramos que toman un valor cuando se ejecuta la funcion
+ return devuelve un valor 
+
+ * Declaraciones `if`
+Es uncondicional que da como resultado verdadero o falso
+
+ * Valores booleanos (`true`, `false`)
+ son tiposs de datos que poseen doss valores verdadero o falso 
